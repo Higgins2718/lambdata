@@ -4,7 +4,7 @@
     Lambdata - a collection of Data Science helperr functions
 """
 
-
+import __main__
 import pandas as pandas
 import example_module
 from datetime import datetime

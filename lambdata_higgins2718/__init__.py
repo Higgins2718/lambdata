@@ -6,7 +6,7 @@
 
 import __main__
 import pandas as pandas
-import example_module
+from . import example_module
 from datetime import datetime
 
 # Y = example_module.increment(example_module.x)
